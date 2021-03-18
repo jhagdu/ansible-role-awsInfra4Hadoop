@@ -1,5 +1,5 @@
 galaxy_info:
-  role_name: awsinfra4k8s
+  role_name: awsinfra4hadoop
   author: Aman Jhagrolia
   description: To create a AWS Infrastructure for Hadoop MultiNode Cluster
   company: CyberSpace
