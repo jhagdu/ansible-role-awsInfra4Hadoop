@@ -1,7 +1,7 @@
 AWSInfra4Hadoop
 ===============
 
-Ansible Role to create a AWS Infrastructure for Kubernetes MultiNode Cluster
+Ansible Role to create a AWS Infrastructure for Hadoop MultiNode Cluster
 
 Requirements
 ------------
